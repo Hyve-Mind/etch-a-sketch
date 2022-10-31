@@ -1,1 +1,1 @@
-# etch-a-sketch
+# Added little styles, focused mainly on the JS and HTML.
